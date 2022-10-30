@@ -1,0 +1,139 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Camisa Nasa Capacete Ned - Canal da Ned",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": true,
+            "img": "https://s3-alpha-sig.figma.com/img/9b03/4fbd/53a4286c32c2bb07ff6ecf28f9d891f7?Expires=1667779200&Signature=aIJFc-h9oigryVeWzpZsREHLZWCKr2W1zEQo8RGOy28-kLdl5vdCSZo4PPVM9pRJ8Jl1VQQsWdApO1shNRgVqaPMBX3G60TvKJOzMNWKV7r4cgLxggNd4kqfnFo0MUAERyx6XD0POLe4j5nfLCN9dM0gUA4W4O1AMuRMup-h4Jyrh5dyihV6TO9lxv0XEQIJrlxmfhmtvI8Zia5HzOUALe~SSdyyBYiu982gUuniNVLwBsL~2fdis1WBZkuwnLcSyI~MtRF1z6PCeeTuO6zmPpdRyW1TkM55RR2Uz8Q1rVBcG526aoTXvz1Yb~kdGhGwrkG4RD~DD6kFntZ5io1L5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 2,
+            "name": "Notebook Lenovo V14 - i5 8gb 256GB SSD Home 14",
+            "off": true,
+            "offPer": 9,
+            "price": 3689.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/d1bd/e101/9b50d2974513fa9c3adcc5734c3995d2?Expires=1667779200&Signature=XKi7WorCqCWnNuyoYbBxY50GmkPr~JtScpdEcqb5T8Xdaff~waAM6mbKV~hXRqvL5mgwQUyKLHf0PKE823-YjBfhzU5oDw75xWDLIx6K4neXLcDKMWbHqZ33aMTBmKyNsz1OUkT2ITdOTgkXspPSDAWqW8YRz-zRMwsHGCY2okTaJ6zRtc3WxelQ63Zk~G0vWl24206Nd5a87fZ~dcSYY9uiBajfyEroH5hKrf5wT5bmi0f5tMeG3E-tXtFeuEvqgmZxwusvDGztCcytjGKfb~hopdSVOWqYpKvsJxouJfWXJuXwVR8roC8P5Aq-SaQ7WLsL~CkKhUWycsCOU4Md1w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 3,
+            "name": "Mochila Burton Azul Ciano",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/f068/fc94/6b0502965bd399a4c45bbdf8b0e37fa4?Expires=1667779200&Signature=D9t8E-~NDCpJXYDhlvjebTHRmOmtNmF0~64Cbi-TSr7t-kMrPg~moxta7UT2w~qgl99PdCkcCZ3d0sv1JEOt9eg3ceOHTvBtWTGH4~sLKDP4SH3~i6leqskGn29axXAf0s2E7OLupi9IV6JZtd5t2I6ihBATeejXKYjoYecUqPfVEUaBrh6clZUwHOazPHV9K25~rgzmDgFnK0ncvJZ3Tcudigau6ySSz5nzFCExztFHBJvOqIiT8VOOiMbHfzqfVbFVs79FYGsG2Hjoe88PfLBMe~jT-acDKSqOX7VfUd7xV910r13I7vhxFup9svSJlT-3Ba9m~8iTFCHNugsnug__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 4,
+            "name": "Camisa Nasa Capacete Ned - Canal da Ned",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/9b03/4fbd/53a4286c32c2bb07ff6ecf28f9d891f7?Expires=1667779200&Signature=aIJFc-h9oigryVeWzpZsREHLZWCKr2W1zEQo8RGOy28-kLdl5vdCSZo4PPVM9pRJ8Jl1VQQsWdApO1shNRgVqaPMBX3G60TvKJOzMNWKV7r4cgLxggNd4kqfnFo0MUAERyx6XD0POLe4j5nfLCN9dM0gUA4W4O1AMuRMup-h4Jyrh5dyihV6TO9lxv0XEQIJrlxmfhmtvI8Zia5HzOUALe~SSdyyBYiu982gUuniNVLwBsL~2fdis1WBZkuwnLcSyI~MtRF1z6PCeeTuO6zmPpdRyW1TkM55RR2Uz8Q1rVBcG526aoTXvz1Yb~kdGhGwrkG4RD~DD6kFntZ5io1L5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 5,
+            "name": "Notebook Lenovo V14 - i5 8gb 256GB SSD Home 14",
+            "off": true,
+            "offPer": 9,
+            "price": 3689.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/d1bd/e101/9b50d2974513fa9c3adcc5734c3995d2?Expires=1667779200&Signature=XKi7WorCqCWnNuyoYbBxY50GmkPr~JtScpdEcqb5T8Xdaff~waAM6mbKV~hXRqvL5mgwQUyKLHf0PKE823-YjBfhzU5oDw75xWDLIx6K4neXLcDKMWbHqZ33aMTBmKyNsz1OUkT2ITdOTgkXspPSDAWqW8YRz-zRMwsHGCY2okTaJ6zRtc3WxelQ63Zk~G0vWl24206Nd5a87fZ~dcSYY9uiBajfyEroH5hKrf5wT5bmi0f5tMeG3E-tXtFeuEvqgmZxwusvDGztCcytjGKfb~hopdSVOWqYpKvsJxouJfWXJuXwVR8roC8P5Aq-SaQ7WLsL~CkKhUWycsCOU4Md1w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 6,
+            "name": "Mochila Burton Azul Ciano",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/f068/fc94/6b0502965bd399a4c45bbdf8b0e37fa4?Expires=1667779200&Signature=D9t8E-~NDCpJXYDhlvjebTHRmOmtNmF0~64Cbi-TSr7t-kMrPg~moxta7UT2w~qgl99PdCkcCZ3d0sv1JEOt9eg3ceOHTvBtWTGH4~sLKDP4SH3~i6leqskGn29axXAf0s2E7OLupi9IV6JZtd5t2I6ihBATeejXKYjoYecUqPfVEUaBrh6clZUwHOazPHV9K25~rgzmDgFnK0ncvJZ3Tcudigau6ySSz5nzFCExztFHBJvOqIiT8VOOiMbHfzqfVbFVs79FYGsG2Hjoe88PfLBMe~jT-acDKSqOX7VfUd7xV910r13I7vhxFup9svSJlT-3Ba9m~8iTFCHNugsnug__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 7,
+            "name": "Camisa Nasa Capacete Ned - Canal da Ned",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/9b03/4fbd/53a4286c32c2bb07ff6ecf28f9d891f7?Expires=1667779200&Signature=aIJFc-h9oigryVeWzpZsREHLZWCKr2W1zEQo8RGOy28-kLdl5vdCSZo4PPVM9pRJ8Jl1VQQsWdApO1shNRgVqaPMBX3G60TvKJOzMNWKV7r4cgLxggNd4kqfnFo0MUAERyx6XD0POLe4j5nfLCN9dM0gUA4W4O1AMuRMup-h4Jyrh5dyihV6TO9lxv0XEQIJrlxmfhmtvI8Zia5HzOUALe~SSdyyBYiu982gUuniNVLwBsL~2fdis1WBZkuwnLcSyI~MtRF1z6PCeeTuO6zmPpdRyW1TkM55RR2Uz8Q1rVBcG526aoTXvz1Yb~kdGhGwrkG4RD~DD6kFntZ5io1L5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 8,
+            "name": "Notebook Lenovo V14 - i5 8gb 256GB SSD Home 14",
+            "off": true,
+            "offPer": 9,
+            "price": 3689.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/d1bd/e101/9b50d2974513fa9c3adcc5734c3995d2?Expires=1667779200&Signature=XKi7WorCqCWnNuyoYbBxY50GmkPr~JtScpdEcqb5T8Xdaff~waAM6mbKV~hXRqvL5mgwQUyKLHf0PKE823-YjBfhzU5oDw75xWDLIx6K4neXLcDKMWbHqZ33aMTBmKyNsz1OUkT2ITdOTgkXspPSDAWqW8YRz-zRMwsHGCY2okTaJ6zRtc3WxelQ63Zk~G0vWl24206Nd5a87fZ~dcSYY9uiBajfyEroH5hKrf5wT5bmi0f5tMeG3E-tXtFeuEvqgmZxwusvDGztCcytjGKfb~hopdSVOWqYpKvsJxouJfWXJuXwVR8roC8P5Aq-SaQ7WLsL~CkKhUWycsCOU4Md1w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 9,
+            "name": "Mochila Burton Azul Ciano",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/f068/fc94/6b0502965bd399a4c45bbdf8b0e37fa4?Expires=1667779200&Signature=D9t8E-~NDCpJXYDhlvjebTHRmOmtNmF0~64Cbi-TSr7t-kMrPg~moxta7UT2w~qgl99PdCkcCZ3d0sv1JEOt9eg3ceOHTvBtWTGH4~sLKDP4SH3~i6leqskGn29axXAf0s2E7OLupi9IV6JZtd5t2I6ihBATeejXKYjoYecUqPfVEUaBrh6clZUwHOazPHV9K25~rgzmDgFnK0ncvJZ3Tcudigau6ySSz5nzFCExztFHBJvOqIiT8VOOiMbHfzqfVbFVs79FYGsG2Hjoe88PfLBMe~jT-acDKSqOX7VfUd7xV910r13I7vhxFup9svSJlT-3Ba9m~8iTFCHNugsnug__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 10,
+            "name": "Camisa Nasa Capacete Ned - Canal da Ned",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": true,
+            "img": "https://s3-alpha-sig.figma.com/img/9b03/4fbd/53a4286c32c2bb07ff6ecf28f9d891f7?Expires=1667779200&Signature=aIJFc-h9oigryVeWzpZsREHLZWCKr2W1zEQo8RGOy28-kLdl5vdCSZo4PPVM9pRJ8Jl1VQQsWdApO1shNRgVqaPMBX3G60TvKJOzMNWKV7r4cgLxggNd4kqfnFo0MUAERyx6XD0POLe4j5nfLCN9dM0gUA4W4O1AMuRMup-h4Jyrh5dyihV6TO9lxv0XEQIJrlxmfhmtvI8Zia5HzOUALe~SSdyyBYiu982gUuniNVLwBsL~2fdis1WBZkuwnLcSyI~MtRF1z6PCeeTuO6zmPpdRyW1TkM55RR2Uz8Q1rVBcG526aoTXvz1Yb~kdGhGwrkG4RD~DD6kFntZ5io1L5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 11,
+            "name": "Notebook Lenovo V14 - i5 8gb 256GB SSD Home 14",
+            "off": true,
+            "offPer": 9,
+            "price": 3689.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/d1bd/e101/9b50d2974513fa9c3adcc5734c3995d2?Expires=1667779200&Signature=XKi7WorCqCWnNuyoYbBxY50GmkPr~JtScpdEcqb5T8Xdaff~waAM6mbKV~hXRqvL5mgwQUyKLHf0PKE823-YjBfhzU5oDw75xWDLIx6K4neXLcDKMWbHqZ33aMTBmKyNsz1OUkT2ITdOTgkXspPSDAWqW8YRz-zRMwsHGCY2okTaJ6zRtc3WxelQ63Zk~G0vWl24206Nd5a87fZ~dcSYY9uiBajfyEroH5hKrf5wT5bmi0f5tMeG3E-tXtFeuEvqgmZxwusvDGztCcytjGKfb~hopdSVOWqYpKvsJxouJfWXJuXwVR8roC8P5Aq-SaQ7WLsL~CkKhUWycsCOU4Md1w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 12,
+            "name": "Mochila Burton Azul Ciano",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/f068/fc94/6b0502965bd399a4c45bbdf8b0e37fa4?Expires=1667779200&Signature=D9t8E-~NDCpJXYDhlvjebTHRmOmtNmF0~64Cbi-TSr7t-kMrPg~moxta7UT2w~qgl99PdCkcCZ3d0sv1JEOt9eg3ceOHTvBtWTGH4~sLKDP4SH3~i6leqskGn29axXAf0s2E7OLupi9IV6JZtd5t2I6ihBATeejXKYjoYecUqPfVEUaBrh6clZUwHOazPHV9K25~rgzmDgFnK0ncvJZ3Tcudigau6ySSz5nzFCExztFHBJvOqIiT8VOOiMbHfzqfVbFVs79FYGsG2Hjoe88PfLBMe~jT-acDKSqOX7VfUd7xV910r13I7vhxFup9svSJlT-3Ba9m~8iTFCHNugsnug__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 13,
+            "name": "Camisa Nasa Capacete Ned - Canal da Ned",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/9b03/4fbd/53a4286c32c2bb07ff6ecf28f9d891f7?Expires=1667779200&Signature=aIJFc-h9oigryVeWzpZsREHLZWCKr2W1zEQo8RGOy28-kLdl5vdCSZo4PPVM9pRJ8Jl1VQQsWdApO1shNRgVqaPMBX3G60TvKJOzMNWKV7r4cgLxggNd4kqfnFo0MUAERyx6XD0POLe4j5nfLCN9dM0gUA4W4O1AMuRMup-h4Jyrh5dyihV6TO9lxv0XEQIJrlxmfhmtvI8Zia5HzOUALe~SSdyyBYiu982gUuniNVLwBsL~2fdis1WBZkuwnLcSyI~MtRF1z6PCeeTuO6zmPpdRyW1TkM55RR2Uz8Q1rVBcG526aoTXvz1Yb~kdGhGwrkG4RD~DD6kFntZ5io1L5A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 14,
+            "name": "Notebook Lenovo V14 - i5 8gb 256GB SSD Home 14",
+            "off": true,
+            "offPer": 9,
+            "price": 3689.99,
+            "favorite": true,
+            "img": "https://s3-alpha-sig.figma.com/img/d1bd/e101/9b50d2974513fa9c3adcc5734c3995d2?Expires=1667779200&Signature=XKi7WorCqCWnNuyoYbBxY50GmkPr~JtScpdEcqb5T8Xdaff~waAM6mbKV~hXRqvL5mgwQUyKLHf0PKE823-YjBfhzU5oDw75xWDLIx6K4neXLcDKMWbHqZ33aMTBmKyNsz1OUkT2ITdOTgkXspPSDAWqW8YRz-zRMwsHGCY2okTaJ6zRtc3WxelQ63Zk~G0vWl24206Nd5a87fZ~dcSYY9uiBajfyEroH5hKrf5wT5bmi0f5tMeG3E-tXtFeuEvqgmZxwusvDGztCcytjGKfb~hopdSVOWqYpKvsJxouJfWXJuXwVR8roC8P5Aq-SaQ7WLsL~CkKhUWycsCOU4Md1w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        },
+        {
+            "id": 15,
+            "name": "Mochila Burton Azul Ciano",
+            "off": true,
+            "offPer": 24,
+            "price": 59.99,
+            "favorite": false,
+            "img": "https://s3-alpha-sig.figma.com/img/f068/fc94/6b0502965bd399a4c45bbdf8b0e37fa4?Expires=1667779200&Signature=D9t8E-~NDCpJXYDhlvjebTHRmOmtNmF0~64Cbi-TSr7t-kMrPg~moxta7UT2w~qgl99PdCkcCZ3d0sv1JEOt9eg3ceOHTvBtWTGH4~sLKDP4SH3~i6leqskGn29axXAf0s2E7OLupi9IV6JZtd5t2I6ihBATeejXKYjoYecUqPfVEUaBrh6clZUwHOazPHV9K25~rgzmDgFnK0ncvJZ3Tcudigau6ySSz5nzFCExztFHBJvOqIiT8VOOiMbHfzqfVbFVs79FYGsG2Hjoe88PfLBMe~jT-acDKSqOX7VfUd7xV910r13I7vhxFup9svSJlT-3Ba9m~8iTFCHNugsnug__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+        }
+    ]
+}

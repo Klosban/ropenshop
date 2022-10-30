@@ -1,6 +1,6 @@
 # Ropen Shop 🛒
 
-Ropen Shop, website de vendas com produtos variados
+Ropen Shop, website de vendas de produtos
 
 <img src="https://i.imgur.com/1MMg3aa.png"/>
 

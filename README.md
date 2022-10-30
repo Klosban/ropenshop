@@ -2,7 +2,7 @@
 
 Ropen Shop, website de vendas de produtos
 
-<img src="https://i.imgur.com/1MMg3aa.png"/>
+<img src="https://github.com/Klosban/ropenshop/blob/master/src/assets/ropenshop1.PNG"/>
 
 ## Tecnologias utilizadas no projeto 💻
 
